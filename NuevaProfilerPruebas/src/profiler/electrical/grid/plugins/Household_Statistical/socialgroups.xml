@@ -1,0 +1,97 @@
+<socialgroups>
+	<socialgroup id="1a" percentage="12.21154" personCount="1" areaFloor="65.2">
+		<cookingstove percentage="100"/>
+		<oven percentage="60"/>
+		<microwave percentage="40"/>
+		<dishwasher percentage="60"/>
+		<refrigerator percentage="100"/>
+		<audiohifi percentage="100"/>
+		<tv percentage="100"/>
+		<lighting percentage="100"/>
+		<washingmachine percentage="80"/>
+		<computer percentage="100"/>
+		<electricaltool title="waterBoiler" percentage="100"/>
+		<electricaltool title="hairDryer" percentage="100"/>
+		<electricaltool title="vacuum" percentage="80"/>
+		<electricaltool title="iron" percentage="40"/>
+		<electricaltool title="basisConsumption" percentage="100"/>
+	</socialgroup>
+	<socialgroup id="1b" percentage="12.26048" personCount="1" areaFloor="125">
+		<cookingstove percentage="100"/>
+		<oven percentage="100"/>
+		<microwave percentage="50"/>
+		<dishwasher percentage="75"/>
+		<refrigerator percentage="100"/>
+		<freezer percentage="75"/>
+		<audiohifi percentage="50"/>
+		<tv percentage="100"/>
+		<dryer percentage="25"/>
+		<lighting percentage="100"/>
+		<washingmachine percentage="100"/>
+		<computer percentage="50"/>
+		<electricaltool title="waterBoiler" percentage="100"/>
+		<electricaltool title="hairDryer" percentage="100"/>
+		<electricaltool title="vacuum" percentage="100"/>
+		<electricaltool title="iron" percentage="75"/>
+		<electricaltool title="basisConsumption" percentage="100"/>
+	</socialgroup>
+	<socialgroup id="2a" percentage="25.05373" personCount="2" areaFloor="84">
+		<cookingstove percentage="100"/>
+		<oven percentage="100"/>
+		<microwave percentage="100"/>
+		<dishwasher percentage="80"/>
+		<refrigerator percentage="100"/>
+		<freezer percentage="40"/>
+		<audiohifi percentage="100"/>
+		<tv percentage="100"/>
+		<dryer percentage="40"/>
+		<lighting percentage="100"/>
+		<washingmachine percentage="100"/>
+		<computer percentage="100"/>
+		<electricaltool title="console" percentage="40"/>
+		<electricaltool title="waterBoiler" percentage="100"/>
+		<electricaltool title="hairDryer" percentage="100"/>
+		<electricaltool title="vacuum" percentage="60"/>
+		<electricaltool title="iron" percentage="80"/>
+		<electricaltool title="basisConsumption" percentage="100"/>
+	</socialgroup>	
+	<socialgroup id="3a" percentage="28.2148" personCount="3-4" areaFloor="109">
+		<cookingstove percentage="100"/>
+		<oven percentage="100"/>
+		<microwave percentage="80"/>
+		<dishwasher percentage="100"/>
+		<refrigerator percentage="100"/>
+		<freezer percentage="80"/>
+		<audiohifi percentage="100"/>
+		<tv percentage="100"/>
+		<dryer percentage="80"/>
+		<lighting percentage="100"/>
+		<washingmachine percentage="100"/>
+		<computer percentage="100"/>
+		<electricaltool title="console" percentage="60"/>
+		<electricaltool title="waterBoiler" percentage="100"/>
+		<electricaltool title="hairDryer" percentage="100"/>
+		<electricaltool title="vacuum" percentage="80"/>
+		<electricaltool title="iron" percentage="60"/>
+		<electricaltool title="basisConsumption" percentage="100"/>
+	</socialgroup>
+	<socialgroup id="4" percentage="22.25946" personCount="2" areaFloor="125">
+		<cookingstove percentage="100"/>
+		<oven percentage="100"/>
+		<microwave percentage="100"/>
+		<dishwasher percentage="100"/>
+		<refrigerator percentage="100"/>
+		<freezer percentage="100"/>
+		<audiohifi percentage="100"/>
+		<tv percentage="100"/>
+		<dryer percentage="100"/>
+		<lighting percentage="100"/>
+		<washingmachine percentage="100"/>
+		<computer percentage="80"/>
+		<electricaltool title="waterBoiler" percentage="100"/>
+		<electricaltool title="hairDryer" percentage="100"/>
+		<electricaltool title="vacuum" percentage="80"/>
+		<electricaltool title="iron" percentage="60"/>
+		<electricaltool title="basisConsumption" percentage="100"/>
+	</socialgroup>
+</socialgroups>

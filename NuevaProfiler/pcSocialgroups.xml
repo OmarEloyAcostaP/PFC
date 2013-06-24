@@ -1,0 +1,97 @@
+<socialgroups>
+	<socialgroup id="1a">
+		<cookingstove behavior="CookingStoveFullBehavior@Pulse@30" count="4"/>
+		<oven behavior="OvenFullBehavior@Pulse@30"/>
+		<microwave behavior="MicrowaveFullBehavior@Basic@30"/>
+		<dishwasher behavior="DishwasherFullBehavior@Complex@30"/>
+		<refrigerator behavior="RefrigeratorFullBehavior@Basic@30"/>
+		<audiohifi behavior="AudioHifiFullBehavior@Basic@30"/>
+		<tv behavior="TvFullBehavior@Complex@30"/>
+		<lighting behavior="LightingFullBehavior@InstalledPower@30"/>
+		<washingmachine behavior="WashingMachineFullBehavior@Complex@30"/>
+		<computer behavior="ComputerFullBehavior@Basic@30" counter="1-80@2-20@30"/>
+		<electricaltool title="waterBoiler" behavior="ElectricalToolFullBehavior@Pulse@30" installedPower="2200"/>
+		<electricaltool title="hairDryer" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="vacuum" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="2000"/>
+		<electricaltool title="iron" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="basisConsumption" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="50"/>
+	</socialgroup>
+	<socialgroup id="1b">
+		<cookingstove behavior="CookingStoveFullBehavior@Pulse@30" count="4"/>
+		<oven behavior="OvenFullBehavior@Pulse@30"/>
+		<microwave behavior="MicrowaveFullBehavior@Basic@30"/>
+		<dishwasher behavior="DishwasherFullBehavior@Complex@30"/>
+		<refrigerator behavior="RefrigeratorFullBehavior@Basic@30"/>
+		<freezer behavior="FreezerFullBehavior@Basic@30"/>
+		<audiohifi behavior="AudioHifiFullBehavior@Basic@30"/>
+		<tv behavior="TvFullBehavior@Complex@30" count="1-75@2-25"/>
+		<dryer behavior="DryerFullBehavior@Basic@30"/>
+		<lighting behavior="LightingFullBehavior@InstalledPower@30"/>
+		<washingmachine behavior="WashingMachineFullBehavior@Complex@30"/>
+		<computer behavior="ComputerFullBehavior@Basic@30"/>
+		<electricaltool title="waterBoiler" behavior="ElectricalToolFullBehavior@Pulse@30" installedPower="2200"/>
+		<electricaltool title="hairDryer" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="vacuum" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="2000"/>
+		<electricaltool title="iron" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="basisConsumption" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="50"/>
+	</socialgroup>
+	<socialgroup id="2a">
+		<cookingstove behavior="CookingStoveFullBehavior@Pulse@30" count="4"/>
+		<oven behavior="OvenFullBehavior@Pulse@30"/>
+		<microwave behavior="MicrowaveFullBehavior@Basic@30"/>
+		<dishwasher behavior="DishwasherFullBehavior@Complex@30"/>
+		<refrigerator behavior="RefrigeratorFullBehavior@Basic@30"/>
+		<freezer behavior="FreezerFullBehavior@Basic@30"/>
+		<audiohifi behavior="AudioHifiFullBehavior@Basic@30"/>
+		<tv behavior="TvFullBehavior@Complex@30" count="1-80@2-20"/>
+		<dryer behavior="DryerFullBehavior@Basic@30"/>
+		<lighting behavior="LightingFullBehavior@InstalledPower@30"/>
+		<washingmachine behavior="WashingMachineFullBehavior@Complex@30"/>
+		<computer behavior="ComputerFullBehavior@Basic@30" count="2-80@3-20"/>
+		<electricaltool title="console" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="100"/>
+		<electricaltool title="waterBoiler" behavior="ElectricalToolFullBehavior@Pulse@30" installedPower="2200"/>
+		<electricaltool title="hairDryer" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="vacuum" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="2000"/>
+		<electricaltool title="iron" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="basisConsumption" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="100"/>
+	</socialgroup>	
+	<socialgroup id="3a">
+		<cookingstove behavior="CookingStoveFullBehavior@Pulse@30" count="4"/>
+		<oven behavior="OvenFullBehavior@Pulse@30"/>
+		<microwave behavior="MicrowaveFullBehavior@Basic@30"/>
+		<dishwasher behavior="DishwasherFullBehavior@Complex@30"/>
+		<refrigerator behavior="RefrigeratorFullBehavior@Basic@30"/>
+		<freezer behavior="FreezerFullBehavior@Basic@30"/>
+		<audiohifi behavior="AudioHifiFullBehavior@Basic@30"/>
+		<tv behavior="TvFullBehavior@Complex@30" count="1-80@2-20"/>
+		<dryer behavior="DryerFullBehavior@Basic@30"/>
+		<lighting behavior="LightingFullBehavior@InstalledPower@30"/>
+		<washingmachine behavior="WashingMachineFullBehavior@Complex@30"/>
+		<computer behavior="ComputerFullBehavior@Basic@30" count="2-60@1-40"/>
+		<electricaltool title="console" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="100"/>
+		<electricaltool title="waterBoiler" behavior="ElectricalToolFullBehavior@Pulse@30" installedPower="2200"/>
+		<electricaltool title="hairDryer" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="vacuum" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="2000"/>
+		<electricaltool title="iron" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="basisConsumption" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="150"/>
+	</socialgroup>
+	<socialgroup id="4">
+		<cookingstove behavior="CookingStoveFullBehavior@Pulse@30" count="4"/>
+		<oven behavior="OvenFullBehavior@Pulse@30"/>
+		<microwave behavior="MicrowaveFullBehavior@Basic@30"/>
+		<dishwasher behavior="DishwasherFullBehavior@Complex@30"/>
+		<refrigerator behavior="RefrigeratorFullBehavior@Basic@30"/>
+		<freezer behavior="FreezerFullBehavior@Basic@30"/>
+		<audiohifi behavior="AudioHifiFullBehavior@Basic@30"/>
+		<tv behavior="TvFullBehavior@Complex@30" count="1-20@2-80"/>
+		<dryer behavior="DryerFullBehavior@Basic@30"/>
+		<lighting behavior="LightingFullBehavior@InstalledPower@30"/>
+		<washingmachine behavior="WashingMachineFullBehavior@Complex@30"/>
+		<computer behavior="ComputerFullBehavior@Basic@30"/>
+		<electricaltool title="waterBoiler" behavior="ElectricalToolFullBehavior@Pulse@30" installedPower="2200"/>
+		<electricaltool title="hairDryer" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="vacuum" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="2000"/>
+		<electricaltool title="iron" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="1800"/>
+		<electricaltool title="basisConsumption" behavior="ElectricalToolFullBehavior@Normal@30" installedPower="100"/>
+	</socialgroup>
+</socialgroups>

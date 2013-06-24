@@ -1,0 +1,7 @@
+<socialgroups>
+	<socialgroup id="1a" recipe="SingleJuniorRecipe" count="4"/>
+	<socialgroup id="1b" recipe="SingleSeniorRecipe" count="4"/>
+	<socialgroup id="2a" recipe="CoupleWithoutChildrenRecipe" count="4"/>
+	<socialgroup id="3a" recipe="FamilyWithChildrenRecipe" count="4"/>
+	<socialgroup id="4" recipe="SeniorCoupleRecipe" count="4"/>
+</socialgroups>

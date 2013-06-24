@@ -1,0 +1,132 @@
+[Box: ::tafat.engine - ::tafat.engine::Behavior]
+X=430
+Y=121
+
+[Box: ::tafat.engine - ::tafat.engine::BehaviorContainer]
+X=840
+Y=121
+
+[Box: ::tafat.engine - ::tafat.engine::Connection]
+X=1730
+Y=40
+
+[Box: ::tafat.engine - ::tafat.engine::Console]
+X=225
+Y=121
+
+[Box: ::tafat.engine - ::tafat.engine::DateParser]
+X=1525
+Y=40
+
+[Box: ::tafat.engine - ::tafat.engine::Entity]
+X=20
+Y=121
+
+[Box: ::tafat.engine - ::tafat.engine::ModelObject]
+X=705
+Y=40
+
+[Box: ::tafat.engine - ::tafat.engine::Notification]
+X=1320
+Y=40
+
+[Box: ::tafat.engine - ::tafat.engine::Scene]
+X=1935
+Y=40
+
+[Box: ::tafat.engine - ::tafat.engine::StepCalculator]
+X=1045
+Y=121
+
+[Box: ::tafat.engine - ::tafat.engine::Time]
+X=1115
+Y=40
+
+[Box: ::tafat.engine - ::tafat.engine::Tools]
+X=910
+Y=40
+
+[Box: ::tafat.engine - ::tafat.engine::Topology]
+X=635
+Y=121
+
+[Diagram: ::tafat.engine]
+OffsetX=0
+OffsetY=531
+Visibility=4
+ShowAssoc=0
+
+[Box: ::tafat.metamodel.behavior - ::tafat.engine::Behavior]
+X=1644
+Y=301
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::AudioHifiFullBehaviorBasic]
+X=3222
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::ComputerFullBehaviorBasic]
+X=3017
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::CookingStoveFullBehaviorPulse]
+X=2806
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::DishwasherFullBehaviorComplex]
+X=2593
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::DryerFullBehaviorBasic]
+X=2388
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::ElectricalToolFullBehaviorNormal]
+X=2170
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::ElectricalToolFullBehaviorPulse]
+X=1960
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::FreezerFullBehaviorBasic]
+X=1755
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::HouseholdFullBehaviorSocialGroups]
+X=1519
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::LightingFullBehaviorInstalledPower]
+X=1290
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::MicrowaveFullBehaviorBasic]
+X=1085
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::OvenFullBehaviorPulse]
+X=880
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::PowerBusFullBehavior]
+X=675
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::RefrigeratorFullBehaviorBasic]
+X=470
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::TvFullBehaviorComplex]
+X=265
+Y=40
+
+[Box: ::tafat.metamodel.behavior - ::tafat.metamodel.behavior::WashingMachineFullBehaviorComplex]
+X=20
+Y=40
+
+[Diagram: ::tafat.metamodel.behavior]
+OffsetX=0
+OffsetY=354
+Visibility=0
+ShowAssoc=0
+

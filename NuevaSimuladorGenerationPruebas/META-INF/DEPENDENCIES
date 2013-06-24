@@ -1,0 +1,33 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache Geronimo Bundles: axiom-all-1.2.12
+
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Streaming API for XML (STAX API 1.0) (http://geronimo.apache.org/specs/geronimo-stax-api_1.0_spec) org.apache.geronimo.specs:geronimo-stax-api_1.0_spec:bundle:1.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'OPS4J - Open Participation Software for Java' (http://www.ops4j.org/)
+  - OPS4J Pax Logging - API (http://www.ops4j.org/projects/pax/logging/pax-logging-api) org.ops4j.pax.logging:pax-logging-api:bundle:1.5.3
+    License: ALv2  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'The Apache Software Foundation' (http://www.apache.org)
+  - Activation 1.1 (http://geronimo.apache.org/maven/specs/geronimo-activation_1.1_spec/1.1) org.apache.geronimo.specs:geronimo-activation_1.1_spec:bundle:1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - JavaMail 1.4 (http://geronimo.apache.org/maven/specs/geronimo-javamail_1.4_spec/1.7) org.apache.geronimo.specs:geronimo-javamail_1.4_spec:bundle:1.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Axiom API (http://ws.apache.org/axiom/) org.apache.ws.commons.axiom:axiom-api:bundle:1.2.12
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Axiom DOM (http://ws.apache.org/axiom/) org.apache.ws.commons.axiom:axiom-dom:bundle:1.2.12
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Axiom Impl (http://ws.apache.org/axiom/) org.apache.ws.commons.axiom:axiom-impl:bundle:1.2.12
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
